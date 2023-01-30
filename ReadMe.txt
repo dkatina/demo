@@ -24,4 +24,4 @@
 
 
 
-4. Homework: Push Portfolio Website to Github (Hosted via Github Pages)
+5. Homework: Push Portfolio Website to Github (Hosted via Github Pages)
